@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Fabrication and assembly line</title>
+  <desc id="desc">A staged manufacturing line showing fabrication, battery testing, appliance assembly, and final inspection.</desc>
+  <defs>
+    <linearGradient id="belt" x1="0" x2="1">
+      <stop offset="0" stop-color="#233f97"/>
+      <stop offset=".5" stop-color="#079b6c"/>
+      <stop offset="1" stop-color="#ff7214"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" rx="18" fill="#10283f"/>
+  <circle cx="760" cy="96" r="74" fill="#ffd84f"/>
+  <circle cx="130" cy="474" r="146" fill="#233f97" opacity=".72"/>
+  <path d="M72 374h756" stroke="url(#belt)" stroke-width="28" stroke-linecap="round"/>
+
+  <g fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="2">
+    <path d="M74 88h752M74 168h752M74 248h752M74 328h752M74 408h752"/>
+    <path d="M160 70v400M280 70v400M400 70v400M520 70v400M640 70v400M760 70v400"/>
+  </g>
+
+  <g transform="translate(98 158)">
+    <rect width="150" height="124" rx="12" fill="#fffaf1"/>
+    <path d="M24 28h102M24 54h74M24 80h102" stroke="#8da1b7" stroke-width="10" stroke-linecap="round"/>
+    <rect x="24" y="98" width="46" height="12" rx="6" fill="#ff7214"/>
+  </g>
+
+  <g transform="translate(302 130)">
+    <rect width="158" height="152" rx="12" fill="#fffaf1"/>
+    <rect x="28" y="26" width="32" height="84" rx="8" fill="#079b6c"/>
+    <rect x="74" y="26" width="32" height="84" rx="8" fill="#079b6c"/>
+    <rect x="120" y="26" width="12" height="84" rx="6" fill="#ffd84f"/>
+    <path d="M30 126h98" stroke="#233f97" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(526 150)">
+    <rect width="170" height="132" rx="12" fill="#fffaf1"/>
+    <rect x="22" y="22" width="126" height="56" rx="10" fill="#dfe8f1"/>
+    <path d="M40 42h90M40 58h90" stroke="#8da1b7" stroke-width="6" stroke-linecap="round"/>
+    <rect x="34" y="94" width="44" height="14" rx="7" fill="#233f97"/>
+    <rect x="94" y="94" width="44" height="14" rx="7" fill="#ff7214"/>
+  </g>
+
+  <g transform="translate(220 418)" fill="#fffaf1">
+    <circle cx="0" cy="0" r="22"/>
+    <circle cx="160" cy="0" r="22"/>
+    <circle cx="320" cy="0" r="22"/>
+    <circle cx="480" cy="0" r="22"/>
+  </g>
+
+  <g fill="#ffffff">
+    <text x="116" y="88" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">FABRICATION</text>
+    <text x="316" y="88" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">POWER TEST</text>
+    <text x="540" y="88" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">ASSEMBLY</text>
+  </g>
+</svg>

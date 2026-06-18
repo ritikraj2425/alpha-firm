@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-label="Solar induction heater product icon">
+  <rect x="34" y="82" width="150" height="58" rx="12" fill="#fffaf1"/>
+  <ellipse cx="109" cy="101" rx="46" ry="12" fill="#dfe8f1"/>
+  <ellipse cx="109" cy="101" rx="28" ry="7" fill="none" stroke="#233f97" stroke-width="5"/>
+  <rect x="58" y="120" width="58" height="10" rx="5" fill="#ff7214"/>
+  <circle cx="148" cy="125" r="7" fill="#079b6c"/>
+  <path d="M200 114h74" stroke="#ffd84f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M216 94 268 74" stroke="#0c1c2c" stroke-width="8" stroke-linecap="round"/>
+  <path d="m180 50 86-22 34 30-90 25Z" fill="#143777"/>
+  <g stroke="#74a7ff" stroke-width="2" opacity=".8">
+    <path d="m198 50 32 27M222 43l32 27M246 36l32 27"/>
+    <path d="m194 62 82-22M207 74l82-22"/>
+  </g>
+  <path d="M88 68c-9-14 18-21 8-39 25 17 3 27 23 43 8 7 10 18 0 24-17 11-43-8-31-28Z" fill="#ffd84f"/>
+  <path d="M106 78c-4-7 9-10 4-19 12 8 2 13 12 21 4 4 5 9 0 12-8 6-22-4-16-14Z" fill="#ff7214"/>
+</svg>

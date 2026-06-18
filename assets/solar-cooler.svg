@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-label="Solar air cooler product icon">
+  <rect x="8" y="86" width="124" height="54" rx="10" fill="#fffaf1"/>
+  <rect x="22" y="98" width="96" height="22" rx="5" fill="#dfe8f1"/>
+  <path d="M34 105h72M34 113h72" stroke="#8da1b7" stroke-width="4" stroke-linecap="round"/>
+  <rect x="38" y="126" width="28" height="8" rx="4" fill="#233f97"/>
+  <rect x="74" y="126" width="28" height="8" rx="4" fill="#ff7214"/>
+  <circle cx="44" cy="146" r="8" fill="#0c1c2c"/>
+  <circle cx="98" cy="146" r="8" fill="#0c1c2c"/>
+  <path d="M153 105h142" stroke="#ffd84f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M174 96 284 66" stroke="#0c1c2c" stroke-width="8" stroke-linecap="round"/>
+  <path d="m154 49 108-28 47 40-112 30Z" fill="#143777"/>
+  <g stroke="#74a7ff" stroke-width="2" opacity=".8">
+    <path d="m178 48 46 33M207 40l46 33M236 32l46 33"/>
+    <path d="m174 62 102-27M190 75l102-27"/>
+  </g>
+  <circle cx="278" cy="26" r="18" fill="#ffd84f"/>
+</svg>
