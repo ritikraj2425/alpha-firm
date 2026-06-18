@@ -222,7 +222,7 @@ p {
 }
 
 h1 {
-  font-size: clamp(3.1rem, 8vw, 7.4rem);
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
   letter-spacing: 0;
   line-height: 0.92;
   margin-bottom: 24px;
@@ -230,7 +230,7 @@ h1 {
 }
 
 h2 {
-  font-size: clamp(2.1rem, 5vw, 4.6rem);
+  font-size: clamp(1.6rem, 3.5vw, 2.8rem);
   letter-spacing: 0;
   line-height: 0.98;
   margin-bottom: 20px;
@@ -306,14 +306,14 @@ h3 {
     var(--blue);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  min-height: min(56vw, 620px);
+  min-height: min(45vw, 420px);
   overflow: hidden;
   padding: clamp(16px, 2vw, 26px);
 }
 
 .hero-visual img {
   height: 100%;
-  min-height: 440px;
+  min-height: 300px;
   object-fit: cover;
   width: 100%;
 }
@@ -335,7 +335,7 @@ h3 {
 .metrics strong {
   color: var(--yellow);
   display: block;
-  font-size: clamp(2rem, 3.6vw, 4.1rem);
+  font-size: clamp(1.6rem, 2.8vw, 2.6rem);
   line-height: 0.9;
   margin-bottom: 16px;
 }
